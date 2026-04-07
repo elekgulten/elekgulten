@@ -1,4 +1,4 @@
-## Hi, I'm Elek Gulten 👋
+## Hi, I'm Çiçek Erden 👋
 
 Independent developer based in Konya, Turkey.  
 Working with Python and JavaScript, currently expanding into  
